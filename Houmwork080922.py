@@ -1,4 +1,4 @@
-from random import randint
+# from random import randint
 
 
 # # 1.Задайте список из нескольких чисел. Напишите программу, которая найдёт сумму элементов списка,
@@ -176,6 +176,12 @@ from random import randint
 
 
 
+
+
+
+
+
+
 # def shift(lst, steps):
 #     if steps < 0:
 #         for i in range(abs(steps)):
@@ -191,6 +197,10 @@ from random import randint
  
 # shift(nums, 3)
 # print(nums)
+
+
+
+
 
 
 
